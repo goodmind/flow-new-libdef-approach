@@ -2,7 +2,7 @@
 
 - `@babel/register/index.js.flow`
 
-  Reads package name as `@reach/router`
+  Reads package name as `@babel/register`
 
 - `@reach/router.js.flow`
 
