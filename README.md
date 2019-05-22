@@ -6,5 +6,5 @@
 
 ## Two new structure examples
 
-- node_modules/@flowtyped
-- new-flow-typed
+- `node_modules/@flowtyped`
+- `new-flow-typed`
