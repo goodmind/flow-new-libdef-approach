@@ -1,6 +1,11 @@
+# Old library definitions
+
 [libs]
-old_flow-typed
+flow-typed
+
+# Section name can be better
 
 [new_libs]
-new_flow-typed
+new-flow-typed
+# or from node_modules
 node_modules/@flowtyped
