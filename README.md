@@ -2,7 +2,7 @@
 
 ## Old structure
 
-- flow-typed
+- `flow-typed`
 
 ## Two new structure examples
 
