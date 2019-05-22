@@ -1,0 +1,6 @@
+[libs]
+old_flow-typed
+
+[new_libs]
+new_flow-typed
+node_modules/@flowtyped
